@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+body{
+    font-family: 'Play', sans-serif;
+}
+.heading1{
+    position: absolute;
+    top: 60px;
+    left: 840px;
+    transform: skew(60deg, -30deg) scaleY(0.667);
+    background: #f07e6e;
+    text-transform: uppercase;
+    font-size: 37px;
+}
+.heading2{
+    position: absolute;
+    top: 103px;
+    left: 866px;
+    transform: skew(0deg, -30deg) scaleY(1.337);
+    background: #84cdfa;
+    text-transform: uppercase;
+    font-size: 37px;
+}
+.heading3{
+    position: absolute;
+    top: 146px;
+    left: 890px;
+    transform: skew(60deg, -30deg) scaleY(0.667);
+    background: #79ff79;
+    text-transform: uppercase;
+    font-size: 37px;
+}
+.heading-text{
+    position: absolute;
+    top: 280px;
+    left: 820px; 
+
+}
